@@ -1,0 +1,5 @@
+ArUco_markers_cdnt.py：ウェブカメラに映ったARマーカーの位置座標抽出プログラム
+ArUco_markers_generate.py：ARマーカーの作成プログラム
+ArUco_markers_cdnt.py：ウェブカメラに映ったARマーカーとそのIDを検出しフレームで表示させるプログラム
+mark_id_00.jpg：ID=0のARマーカー
+mark_id_01.jpg：ID=1のARマーカー
